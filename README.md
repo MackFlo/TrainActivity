@@ -1,0 +1,3 @@
+In this Basic Train Activity, the user should be able to upload information regarding a train they would like to take. Once uploaded, the information should appear on the left side of the screen with the past users input.
+
+I am unsure what I did incorrectly with setting up my database but it is not working at all. I used past assignments as references while creating it. I just can't seem to see the problem. 
